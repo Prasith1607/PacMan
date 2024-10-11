@@ -8,6 +8,8 @@ direction, mouth animation, and boundary reversal, with a continuous animation l
 
 How to run the code:
 
+step1:Save the HTML file with .html extension.
+
 Step2:Click the "Go Live" button.A newbrowser window will open, displaying Pacman animation.
 
 Future Improvement:
